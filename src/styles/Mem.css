@@ -1,0 +1,17 @@
+article {
+  margin-top: 40px;
+}
+.hot img {
+  min-height: 10em;
+  min-width: 40%;
+  display: table-cell;
+  vertical-align: middle;
+  max-width: 80%;
+  max-height: 100%;
+}
+.col {
+  display: inline-block;
+  min-width: 40%;
+  border-style: solid;
+  text-align: center;
+}
